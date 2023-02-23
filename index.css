@@ -1,0 +1,79 @@
+body {
+    margin: 0;
+    background: #1B244A;
+    text-align: center;
+}
+
+.container {
+    display: flex;
+    justify-content: space-around;
+    align-content: center;
+    width: 500px;
+}
+
+span{
+    font-family: 'Cursed Timer ULiL';
+    color: #F94F6D;
+    font-size: 80px;
+}
+
+.pointBoard{
+    background-color: black;
+    border-radius: 5px;
+    display: flex;
+    justify-content: center;
+    padding-top: 10px;
+}
+
+h3{
+    color: white;
+    font-family: Verdana;
+}
+
+button{
+    background: none;
+    color: white;
+    border-radius: 5px;
+    border-color:  #9AABD8;
+    font-family: 'Cursed Timer ULiL';
+    padding: 6px;
+    margin-top: 10px;
+}
+
+h1{
+    color: white;
+    font-family: 'Basketball', sans-serif;
+    font-size: 60px;
+    margin-bottom: 10px;
+    text-shadow: 3px 2px #ff0000;
+}
+
+footer{
+    color: white;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+
+.container{
+    background-color: #075985;
+    padding: 10px 10px 25px 10px;
+    margin: 30px;
+    border-radius: 10px;
+    
+}
+
+#reset{
+    color: yellow;
+}
+
+.wrapper{
+    display: flex;
+  justify-content: center;
+}
+.wrap-reset{
+   display: flex;
+   height: 40px;
+    justify-content: center;
+    margin-top: 220px
+}
