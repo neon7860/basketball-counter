@@ -45,3 +45,4 @@ function reset(){
     homeEl.innerText = 0;
     awayEl.innerText = 0;
 }
+window.reset = reset
